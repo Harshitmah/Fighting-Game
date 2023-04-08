@@ -3,6 +3,8 @@
 link:- https://harshit-fighting-game.netlify.app/
 
 control instruction 
+
+
 PLAYER 1 -
   W A S D - move
   SPACE - attack
